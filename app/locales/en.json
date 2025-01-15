@@ -1,0 +1,134 @@
+{
+  "header": {
+    "about": "About",
+    "skills": "Skills",
+    "projects": "Projects",
+    "experience": "Experience",
+    "contact": "Contact"
+  },
+  "hero": {
+    "name": "Ritikesh Sharma",
+    "title": "Full Stack Developer | Problem Solver | Innovator",
+    "cta": "Get In Touch",
+    "profileAlt": "Ritikesh Sharma"
+  },
+  "about": {
+    "title": "About Me",
+    "imageAlt": "Ritikesh Sharma working",
+    "paragraph1": "Hi, I'm a driven and detail-oriented Full Stack Developer, currently pursuing my B.Tech in Software Engineering. My passion lies in creating innovative and user-centric solutions that not only meet client needs but also exceed expectations.",
+    "paragraph2": "With hands-on experience in both front-end and back-end technologies, I specialize in crafting seamless, efficient, and visually appealing applications. My technical toolkit includes Python, Java, C, SQL, HTML, CSS, and JavaScript, as well as frameworks like React.js and Django. Additionally, my knowledge of ServiceNow System Administration enables me to configure, optimize, and troubleshoot workflows for businesses effectively.",
+    "paragraph3": "I pride myself on being a continuous learner, staying updated with emerging technologies, and adapting to new challenges with enthusiasm. Beyond coding, I'm passionate about improving systems, simplifying processes, and creating solutions that positively impact users."
+  },
+  "skills": {
+    "title": "Skills",
+    "proficiency": "Proficiency",
+    "categories": {
+      "frontend_development": "Frontend Development",
+      "backend_development": "Backend Development",
+      "database_management": "Database Management",
+      "cloud_&_devops": "Cloud & DevOps",
+      "programming_languages": "Programming Languages",
+      "other_tools_&_skills": "Other Tools & Skills"
+    },
+    "html": "HTML",
+    "css": "CSS",
+    "javascript": "JavaScript",
+    "react.js": "React.js",
+    "bootstrap": "Bootstrap",
+    "tailwind_css": "Tailwind CSS",
+    "python": "Python",
+    "django": "Django",
+    "flask": "Flask",
+    "java": "Java",
+    "node.js": "Node.js",
+    "sql": "SQL",
+    "mysql": "MySQL",
+    "postgresql": "PostgreSQL",
+    "servicenow_administration": "ServiceNow Administration",
+    "git": "Git",
+    "github": "GitHub",
+    "api_development_(rest)": "API Development (REST)",
+    "c": "C",
+    "agile_development": "Agile Development",
+    "debugging": "Debugging",
+    "cross-browser_compatibility": "Cross-Browser Compatibility"
+  },
+  "projects": {
+    "title": "Projects",
+    "github": "GitHub",
+    "live_demo": "Live Demo",
+    "e-commerce_platform": {
+      "title": "E-commerce Platform",
+      "description": "A full-stack e-commerce solution with real-time inventory management."
+    },
+    "ai-powered_task_manager": {
+      "title": "AI-powered Task Manager",
+      "description": "Task management app with AI-driven prioritization and scheduling."
+    },
+    "blockchain_voting_system": {
+      "title": "Blockchain Voting System",
+      "description": "Secure and transparent voting system built on blockchain technology."
+    }
+  },
+  "experience": {
+    "title": "Refined Experiences",
+    "tomato:_a_food_sharing_app": {
+      "title": "Tomato: A Food Sharing App",
+      "company": "Personal Project",
+      "description": {
+        "0": "Designed and developed a platform to connect individuals, restaurants, and hostels with surplus food to those in need.",
+        "1": "Technologies Used: HTML, CSS, JavaScript, Python, SQL.",
+        "2": "Built a user-friendly interface with responsive design.",
+        "3": "Implemented secure user accounts and real-time food listing features.",
+        "4": "Developed database structures for seamless data storage and retrieval."
+      }
+    },
+    "tribute_website_for_telegram_chats": {
+      "title": "Tribute Website for Telegram Chats",
+      "company": "Personal Project",
+      "description": {
+        "0": "Created an interactive website showcasing 35 HTML files, including images, GIFs, audios, and more, as a tribute project.",
+        "1": "Technologies Used: HTML, CSS, JavaScript.",
+        "2": "Focused on preserving the original formatting while enhancing the design.",
+        "3": "Ensured cross-browser compatibility and responsiveness."
+      }
+    },
+    "servicenow_system_administration": {
+      "title": "ServiceNow System Administration",
+      "company": "Certification",
+      "description": {
+        "0": "Completed a comprehensive course on configuring, managing, and optimizing workflows in the ServiceNow platform.",
+        "1": "Gained hands-on knowledge in troubleshooting and workflow customization."
+      }
+    },
+    "library_management_system": {
+      "title": "Library Management System",
+      "company": "Academic Project",
+      "description": {
+        "0": "Built a system to manage book inventories, user registrations, and borrowing history.",
+        "1": "Technologies Used: Java, SQL.",
+        "2": "Designed a clean, intuitive interface for both administrators and users.",
+        "3": "Optimized database interactions for faster data retrieval."
+      }
+    },
+    "portfolio_website": {
+      "title": "Portfolio Website",
+      "company": "Academic Project",
+      "description": {
+        "0": "Developed a personal portfolio to showcase skills and projects with a focus on aesthetics and functionality.",
+        "1": "Technologies Used: HTML, CSS, JavaScript, and animations.",
+        "2": "Highlighted coding expertise and responsive design principles."
+      }
+    },
+    "codefest_2024_–_participant": {
+      "title": "CodeFest 2024 – Participant",
+      "company": "Hackathon",
+      "description": {
+        "0": "Participated in a 24-hour coding marathon, solving algorithmic problems in Python and Java.",
+        "1": "Worked collaboratively in a team to debug and optimize solutions under time constraints.",
+        "2": "Learned to handle pressure while maintaining code quality."
+      }
+    }
+  },
+  "serviceNowC
+
